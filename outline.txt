@@ -1,0 +1,8 @@
+# Key goal:
+    * avoid fist level mass univarite analyses
+
+# Start from preprocessing
+    add suggestions...
+    
+# Start from raw unprocessedd 4D bold
+    add suggestions...

@@ -1,2 +1,2 @@
 # multivariate-fmri
-#bhg17-bos
+/#bhg17-bos
